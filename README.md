@@ -29,13 +29,18 @@ For a complete list go to [CoinMarketCap](https://coinmarketcap.com/currencies/r
 ### What are some popular exchanges that except fiat deposits?
 
 - [Coinbase](https://www.coinbase.com)
-- [QuadrigaCX](https://www.quadrigacx.com) for Canadian
-- [Bithumb](https://www.bithumb.com) for Koreans
+- [QuadrigaCX](https://www.quadrigacx.com) (Canada)
+- [Bithumb](https://www.bithumb.com) (Korea)
 - [Bitstamp](https://www.bitstamp.net) 
-- [Bitfinnex](https://www.bitfinex.com) 
+- [Bitfinnex](https://www.bitfinex.com)
+
+### What wallet should I use to store REQ tokens?
+
+REQ is an Ethereum ERC20 tokens.  As such, it is stored using same wallet as Ethereum.  One of the best wallet for Ethereum is [MyEtherWallet](https://myetherwallet.com/).
 
 ### Official Social Links
 
+- [Website](https://request.network)
 - [Medium](https://blog.request.network/)
 - [Reddit](https://www.reddit.com/r/RequestNetwork/)
 - [Twitter](https://twitter.com/requestnetwork)
