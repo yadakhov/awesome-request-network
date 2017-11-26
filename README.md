@@ -6,9 +6,13 @@
 
 ### What is Request Network?
 
-A decentralized network built on top of Ethereum, which allows anyone, anywhere to request a payment.
+Request Network decentralized network built on top of Ethereum, which allows anyone, anywhere to request a payment.
 
-## Official Social Links
+### Where can I purchase Request tokens?
+
+Are are many changes.  For a complete list go to [CoinMarketCap](https://coinmarketcap.com/currencies/request-network/#markets).
+
+### Official Social Links
 
 - [Medium](https://blog.request.network/)
 - [Reddit](https://www.reddit.com/r/RequestNetwork/)
