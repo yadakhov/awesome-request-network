@@ -10,7 +10,15 @@ Request Network decentralized network built on top of Ethereum, which allows any
 
 ### Where can I purchase Request tokens?
 
-Are are many changes.  For a complete list go to [CoinMarketCap](https://coinmarketcap.com/currencies/request-network/#markets).
+There are many crypto currency changes that trade Request tokens.
+
+- [Binance REQ/BTC](https://www.binance.com/trade.html?symbol=REQ_BTC)
+- [Binance REQ/ETH](https://www.binance.com/trade.html?symbol=REQ_ETH)
+- [Kucoin REQ/BTC](https://www.kucoin.com/#/trade/REQ-BTC)
+- [Kucoin REQ/ETH](https://www.kucoin.com/#/trade/REQ-ETH)
+- [EtherDelta](https://etherdelta.com/#REQ-ETH)
+
+For a complete list go to [CoinMarketCap](https://coinmarketcap.com/currencies/request-network/#markets).
 
 ### Official Social Links
 
