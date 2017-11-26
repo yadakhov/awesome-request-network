@@ -1,6 +1,6 @@
 # awesome-request-network
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Request Network](https://github.com/yadakhov/awesome-request-network/blob/master/img/request.jpg)
 
 ## FAQ - Frequently Asked Questions
 
