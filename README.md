@@ -8,7 +8,11 @@
 
 Request Network decentralized network built on top of Ethereum, which allows anyone, anywhere to request a payment.
 
-### Where can I purchase Request tokens?
+### How can I buy Request tokens with fiat?
+
+There is no way to purchase REQ directly with fiat.  You will first have to buy Bitcoin or Ethereum from an exchange that excepts fiat deposits.  Then you will have to transfers the Bitcoin/Ethereum to the crypto currency exchange such as Binance or Kucoin.
+
+### Where can I trade Request tokens?
 
 There are many crypto currency changes that trade Request tokens.
 
