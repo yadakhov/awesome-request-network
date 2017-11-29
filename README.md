@@ -8,6 +8,13 @@
 
 Request Network decentralized network built on top of Ethereum, which allows anyone, anywhere to request a payment.
 
+### Where can I stay up to date on the project.
+
+The offical Request Network blog:  https://blog.request.network/
+
+On reddit:  https://www.reddit.com/r/RequestNetwork/
+
+
 ### Is Ycombinator involed in the project?
 
 Yes.  [Source](https://www.ycombinator.com/companies/?vertical=Fintech&batch=w2017)
@@ -91,6 +98,7 @@ Out of the 20% around around 11.5k ETH sold at presale at 20% discount price: 1 
 ### What was the ETH address used in the ICO?
 
 https://etherscan.io/address/0x97208Bf5dC25e6FD4719cfc2A3C1D1A59a974c3b
+
 
 ## Request Network 
 
