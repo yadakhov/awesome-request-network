@@ -38,9 +38,27 @@ For a complete list go to [CoinMarketCap](https://coinmarketcap.com/currencies/r
 
 REQ is an Ethereum ERC20 tokens.  As such, it is stored using same wallet as Ethereum.  One of the best wallet for Ethereum is [MyEtherWallet](https://myetherwallet.com/).
 
-### Official Social Links
+## ICO
+
+### When was the ICO?
+
+The token sale took place between Oct. 13, 2017 to Oct. 16, 2017.
+
+### What was the ICO price?
+
+The ICO token price was:  1 REQ = 0.0002 ETH or 5000 ETH = 1 ETH.
+
+The price of Ethereum was around $300 to $330 USD range.
+
+The price of Bitcoin was around $5200 to $5500 USD range.
+
+
+## Request Network 
+
+### Links 
 
 - [Website](https://request.network)
+- [WhitePaper](https://request.network/assets/pdf/request_whitepaper.pdf)
 - [Medium](https://blog.request.network/)
 - [Reddit](https://www.reddit.com/r/RequestNetwork/)
 - [Twitter](https://twitter.com/requestnetwork)
