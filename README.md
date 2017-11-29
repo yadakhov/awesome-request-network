@@ -14,6 +14,9 @@ The offical Request Network blog:  https://blog.request.network/
 
 On reddit:  https://www.reddit.com/r/RequestNetwork/
 
+### What's the purpose of the REQ token?
+
+To make a transaction over Request Network, the gateway will have to pay a fee in a form of REQ tokens which will be burnt/destroyed in the process.  There burning of REQ tokens will decrease the total supply of REQ.
 
 ### Is Ycombinator involed in the project?
 
