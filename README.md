@@ -86,7 +86,7 @@ The price of Bitcoin was around $5200 to $5500 USD range.
 
 Yes. 20% of the REQ tokens were alloted to early backer and contributors.
 
-Out of the 20% around around 11.5k ETH sold at presale at 20% ddiscount price: 1 REQ = 0.00016 ETH.
+Out of the 20% around around 11.5k ETH sold at presale at 20% discount price: 1 REQ = 0.00016 ETH.
 
 ### What was the ETH address used in the ICO?
 
