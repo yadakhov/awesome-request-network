@@ -71,7 +71,7 @@ Yes.
 - Retained by Request and external Development Fund: 15%
 - Team and advisors (current & future): 15% (will be vested for 2 years).
 
-![Token Distribution](https://github.com/yadakhov/awesome-request-network/blob/master/img/token_distribution.jpg)
+![Token Distribution](https://github.com/yadakhov/awesome-request-network/blob/master/img/token_distribution.png)
 
 ## Request Network 
 
