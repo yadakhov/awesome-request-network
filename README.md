@@ -47,6 +47,8 @@ For a complete list go to [CoinMarketCap](https://coinmarketcap.com/currencies/r
 
 REQ is an Ethereum ERC20 tokens.  As such, it is stored using same wallet as Ethereum.  One of the best wallet for Ethereum is [MyEtherWallet](https://myetherwallet.com/).
 
+Other ERC20 tokens wallets are Metamask, Parity and Mist.
+
 ## ICO
 
 ### When was the ICO?
@@ -85,6 +87,10 @@ The price of Bitcoin was around $5200 to $5500 USD range.
 Yes. 20% of the REQ tokens were alloted to early backer and contributors.
 
 Out of the 20% around around 11.5k ETH sold at presale at 20% ddiscount price: 1 REQ = 0.00016 ETH.
+
+### What was the ETH address used in the ICO?
+
+https://etherscan.io/address/0x97208Bf5dC25e6FD4719cfc2A3C1D1A59a974c3b
 
 ## Request Network 
 
