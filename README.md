@@ -23,7 +23,7 @@ Some of Request Network partnerships includes:  YCombinator, Moneytis, ING, iexe
 
 There is no way to purchase REQ directly with fiat.  You will first have to buy Ethereum or Bitcoin from an exchange that excepts fiat deposits.
 
-Then transfer the Ethereum to a crypto currency exchange such as Binance or Kucoin to trade for Request tokens.
+Then transfer the Ethereum to a crypto currency exchange such as Binance or EtherDelta and trade for Request tokens.
 
 ### Where can I trade Request tokens?
 
