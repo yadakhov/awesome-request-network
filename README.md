@@ -8,6 +8,17 @@
 
 Request Network decentralized network built on top of Ethereum, which allows anyone, anywhere to request a payment.
 
+### Is Ycombinator involed in the project?
+
+Yes.  [Source](https://www.ycombinator.com/companies/?vertical=Fintech&batch=w2017)
+
+CTRL+F: Request Network
+
+Some of Request Network partnerships includes:  YCombinator, Moneytis, ING, iexec, and Quantstamp.
+
+![Partnerships](https://github.com/yadakhov/awesome-request-network/blob/master/img/partnerships.png)
+
+
 ### How can I buy Request tokens with fiat?
 
 There is no way to purchase REQ directly with fiat.  You will first have to buy Ethereum or Bitcoin from an exchange that excepts fiat deposits.
@@ -20,8 +31,6 @@ There are many crypto currency changes that trade Request tokens.
 
 - [Binance REQ/BTC](https://www.binance.com/trade.html?symbol=REQ_BTC)
 - [Binance REQ/ETH](https://www.binance.com/trade.html?symbol=REQ_ETH)
-- [Kucoin REQ/BTC](https://www.kucoin.com/#/trade/REQ-BTC)
-- [Kucoin REQ/ETH](https://www.kucoin.com/#/trade/REQ-ETH)
 - [EtherDelta](https://etherdelta.com/#REQ-ETH)
 
 For a complete list go to [CoinMarketCap](https://coinmarketcap.com/currencies/request-network/#markets).
@@ -44,7 +53,7 @@ REQ is an Ethereum ERC20 tokens.  As such, it is stored using same wallet as Eth
 
 The token sale took place between Oct. 13, 2017 to Oct. 16, 2017.
 
-Synthesis:
+#### Synthesis:
 
 Amount to raise: 100,000 ETH for 500,000,000 REQ
 
@@ -53,16 +62,14 @@ Total number of tokens: 1,000,000,000 REQ
 
 ### What was the ICO price?
 
-The ICO token price was:  1 REQ = 0.0002 ETH or 5000 ETH = 1 ETH.
+The ICO token price was:  1 REQ = 0.0002 ETH.
+
+Early Backers & Contributors price:  1 REQ = 0.00016 ETH.
 
 The price of Ethereum was around $300 to $330 USD range.
 
 The price of Bitcoin was around $5200 to $5500 USD range.
 
-
-### Was there a presale?
-
-Yes.
 
 ### What is the Token Distribution?
 
@@ -72,6 +79,12 @@ Yes.
 - Team and advisors (current & future): 15% (will be vested for 2 years).
 
 ![Token Distribution](https://github.com/yadakhov/awesome-request-network/blob/master/img/token_distribution.png)
+
+### Was there a presale?
+
+Yes. 20% of the REQ tokens were alloted to early backer and contributors.
+
+Out of the 20% around around 11.5k ETH sold at presale at 20% ddiscount price: 1 REQ = 0.00016 ETH.
 
 ## Request Network 
 
