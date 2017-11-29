@@ -44,6 +44,13 @@ REQ is an Ethereum ERC20 tokens.  As such, it is stored using same wallet as Eth
 
 The token sale took place between Oct. 13, 2017 to Oct. 16, 2017.
 
+Synthesis:
+
+Amount to raise: 100,000 ETH for 500,000,000 REQ
+
+Total number of tokens: 1,000,000,000 REQ
+
+
 ### What was the ICO price?
 
 The ICO token price was:  1 REQ = 0.0002 ETH or 5000 ETH = 1 ETH.
@@ -52,6 +59,19 @@ The price of Ethereum was around $300 to $330 USD range.
 
 The price of Bitcoin was around $5200 to $5500 USD range.
 
+
+### Was there a presale?
+
+Yes.
+
+### What is the Token Distribution?
+
+- Crowdsale: 50%
+- Early Backers & Contributors (including prelaunch strategic buyers): 20%
+- Retained by Request and external Development Fund: 15%
+- Team and advisors (current & future): 15% (will be vested for 2 years).
+
+![Token Distribution](https://github.com/yadakhov/awesome-request-network/blob/master/img/token_distribution.jpg)
 
 ## Request Network 
 
