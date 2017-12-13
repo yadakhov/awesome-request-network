@@ -102,6 +102,9 @@ Out of the 20% around around 11.5k ETH sold at presale at 20% discount price: 1 
 
 https://etherscan.io/address/0x97208Bf5dC25e6FD4719cfc2A3C1D1A59a974c3b
 
+### Videos
+
+- [Request Network / REQ - Payments Solutions on the Blockchain](https://www.youtube.com/watch?v=r0g0FJMkDPM)
 
 ## Request Network 
 
